@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ❌ / ✔️
-- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
+- Comment développer en utilisant un système de _livereloading_ (`nodemon` par exemple) ✔️
+- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ✔️
 - Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️
-- *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ / ✔️
+- _Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS_ ❌ / ✔️
 
 ## 💻 J'utilise
 
@@ -23,19 +23,18 @@ const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+https://github.com/kaitolight/checkpoint4
+-> Projet lors du checkpoint 4 de ma formation initiale à la Wild Code School. Je le back a entièrement été fait en NodeJS avec Prisma en tant qu'ORM pour traiter la base de données.
 
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌ / ✔️
 
 [lien du projet](...)
 
-Description :
+Description : Project personnel que arrivera sûrement dans le futur qui utilisera NodeJS dans le back.
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
-Description :
+Description : Je n'utiliserais probablement pas NodeJS dans mon environnement professionnel.
 
 ## 🌐 J'utilise des ressources
 
